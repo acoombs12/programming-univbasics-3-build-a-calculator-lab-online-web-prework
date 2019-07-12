@@ -15,10 +15,7 @@ num1 * num2
 end
 
 def modulo(num1, num2)
-answer = num1 / num2
-answer * num2 = multiple
-num1 - mulitple = remainder
-print remainder
+num1 % num2 = result
 end
 
 def square_root(num)
